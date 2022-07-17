@@ -7,3 +7,4 @@ Pequenos programas para estudo.
 3. Tabuada
 4. Cálculo do IMC (Índice de Massa Corporal)
 5. Conversor de Graus Celsius / Fahrenheit 
+6. Multiplo de 3 e 5
